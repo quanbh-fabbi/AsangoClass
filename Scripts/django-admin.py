@@ -1,4 +1,4 @@
-#!D:\CodeDraft\AsangoClass\Scripts\python.exe
+#!D:\CodeDraft\config\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
